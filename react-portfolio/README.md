@@ -1,4 +1,7 @@
 
+github pages - https://cridder.github.io/React-Portfolio/
+
+
 https://create-react-app.dev/docs/getting-started 
 
 
