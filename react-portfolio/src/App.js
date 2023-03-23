@@ -17,8 +17,8 @@ function App() {
         >
           Learn React
         </a>
-        <h1>cridder app</h1>
       </header>
+      <h1>cridder app</h1>
     </div>
   );
 }
