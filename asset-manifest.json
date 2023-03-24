@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/cridder/React-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/cridder/React-Portfolio/static/js/main.46086853.js",
+    "main.js": "/cridder/React-Portfolio/static/js/main.54272c57.js",
     "static/js/787.a2cb61a6.chunk.js": "/cridder/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/cridder/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cridder/React-Portfolio/index.html",
     "main.073c9b0a.css.map": "/cridder/React-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.46086853.js.map": "/cridder/React-Portfolio/static/js/main.46086853.js.map",
+    "main.54272c57.js.map": "/cridder/React-Portfolio/static/js/main.54272c57.js.map",
     "787.a2cb61a6.chunk.js.map": "/cridder/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.46086853.js"
+    "static/js/main.54272c57.js"
   ]
 }
